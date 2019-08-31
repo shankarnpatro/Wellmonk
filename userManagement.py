@@ -3,8 +3,8 @@ import requests
 import time
 from datetime import timedelta
 
-Api_endpoint = "https://nutrimaker.quintuslabs.in/api/users/register/"
-loginApi = "https://nutrimaker.quintuslabs.in/api/users/login/"
+Api_endpoint = "https://example.in/api/users/register/"
+loginApi = "https://example.in/api/users/login/"
 
 def csv_f():
 
